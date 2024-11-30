@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm BioHazard Coder</h1>
+<h1 align="center">BioHazard Coder</h1>
 <h3 align="center">Full Stack Developer from Uzbekistan</h3>
 
 ---
@@ -14,19 +14,6 @@
 </p>
 
 ---
-
-<h3 align="left">Contact:</h3>
-<p align="left">
-  <a href="https://t.me/biohazardcoder" target="_blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" height="30" width="40" />
-  </a>
-  <a href="https://www.instagram.com/biohazardcoder" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-  <a href="https://www.youtube.com/@biohazardcoder" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
-  </a>
-</p>
 
 ---
 
@@ -73,6 +60,18 @@
 </p>
 
 ---
+<h3 align="left">Contact:</h3>
+<p align="left">
+  <a href="https://t.me/biohazardcoder" target="_blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" height="30" width="40" />
+  </a>
+  <a href="https://www.instagram.com/biohazardcoder" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
+  <a href="https://www.youtube.com/@biohazardcoder" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
+  </a>
+</p>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=biohazardcoder&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="margin-right: 20px;"/>
