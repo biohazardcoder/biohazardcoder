@@ -1,5 +1,5 @@
-<h1 align="center">Salom 👋, men BioHazardman</h1>
-<h3 align="center">O‘zbekistonlik ehtirosli Full stack dasturchisi</h3>
+<h1 align="center">Hi 👋, I'm BioHazard Coder</h1>
+<h3 align="center">Full stack developer from Uzbekistan</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=biohazardcoder&label=Profile%20views&color=0e75b6&style=flat" alt="biohazardcoder" />
@@ -11,8 +11,11 @@
   </a>
 </p>
 
-<h3 align="left">Men bilan ulaning:</h3>
+<h3 align="left">Contact:</h3>
 <p align="left">
+ <a href="https://t.me/biohazardcoder" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="Telegram" height="30" width="40" />
+  </a>
   <a href="https://www.instagram.com/biohazardcoder" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
@@ -21,7 +24,7 @@
   </a>
 </p>
 
-<h3 align="left">Tillar va asboblar:</h3>
+<h3 align="left">Languages ​​and tools:</h3>
 <p align="left">
   <a href="https://www.w3schools.com/html/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
