@@ -13,7 +13,7 @@
   </a>
 </p>
 
----
+
 
 ---
 
@@ -72,6 +72,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
   </a>
 </p>
+---
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=biohazardcoder&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="margin-right: 20px;"/>
