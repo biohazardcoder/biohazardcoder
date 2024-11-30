@@ -1,20 +1,24 @@
 <h1 align="center">Hi 👋, I'm BioHazard Coder</h1>
-<h3 align="center">Full stack developer from Uzbekistan</h3>
+<h3 align="center">Full Stack Developer from Uzbekistan</h3>
 
-<p align="left">
+---
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=biohazardcoder&label=Profile%20views&color=0e75b6&style=flat" alt="biohazardcoder" />
 </p>
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=biohazardcoder" alt="biohazardcoder" />
+    <img src="https://github-profile-trophy.vercel.app/?username=biohazardcoder&theme=onedark&no-frame=true&margin-w=15" alt="biohazardcoder" />
   </a>
 </p>
 
+---
+
 <h3 align="left">Contact:</h3>
 <p align="left">
- <a href="https://t.me/biohazardcoder" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="Telegram" height="30" width="40" />
+  <a href="https://t.me/biohazardcoder" target="_blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" height="30" width="40" />
   </a>
   <a href="https://www.instagram.com/biohazardcoder" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
@@ -24,7 +28,9 @@
   </a>
 </p>
 
-<h3 align="left">Languages ​​and tools:</h3>
+---
+
+<h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.w3schools.com/html/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
@@ -67,8 +73,13 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=biohazardcoder&show_icons=true&locale=en&layout=compact" alt="biohazardcoder" /></p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=biohazardcoder&show_icons=true&locale=en" alt="biohazardcoder" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=biohazardcoder&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="margin-right: 20px;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=biohazardcoder&show_icons=true&locale=en" alt="GitHub Stats"/>
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=biohazardcoder" alt="biohazardcoder" /></p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=biohazardcoder" alt="GitHub Streak Stats" />
+</div>
