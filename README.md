@@ -59,7 +59,7 @@
 
 ---
 
-####  Authentication & Realtime
+####  Authentication
 <p align="left">
   <img src="https://ph-files.imgix.net/297bc3d4-bd2e-4eaa-8fb6-a289cf61ea91.png?auto=format" alt="Clerk" width="40" height="40" style="background:white;padding:6px;border-radius:8px;" />
   <img src="https://jwt.io/img/pic_logo.svg" alt="JWT" width="40" height="40" style="background:white;padding:6px;border-radius:8px;" />
