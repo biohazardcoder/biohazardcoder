@@ -49,10 +49,16 @@
 
 ---
 
-####  Tools & Services
+####  Tools
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" style="background:white;padding:6px;border-radius:8px;" />
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40" style="background:white;padding:6px;border-radius:8px;" />
+</p>
+
+---
+
+####  Services
+<p align="left">
   <img src="https://appexchange.salesforce.com/image_host/2b53bb52-3256-4cdb-860b-cbe896427aeb.png" alt="Cloudinary" width="40" height="40" style="background:white;padding:6px;border-radius:8px;" />
   <img src="https://flowmattic.com/wp-content/uploads/2023/06/icon-email.svg'" alt="SMTP" width="40" height="40" style="background:white;padding:6px;border-radius:8px;" />
 </p>
@@ -67,9 +73,15 @@
 
 ---
 
-####  Internationalization & UI 
+####  UI 
 <p align="left">
   <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" alt="shadcn/ui" width="40" height="40" style="background:white;padding:6px;border-radius:8px;" />
+</p>
+
+---
+
+####  Map 
+<p align="left">
   <img src="https://react-leaflet.js.org/img/logo.svg" alt="React Leaflet" width="40" height="40" style="background:white;padding:6px;border-radius:8px;" />
 </p>
 
