@@ -52,6 +52,7 @@
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" style="background:white;padding:6px;border-radius:8px;" />
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40" style="background:white;padding:6px;border-radius:8px;" />
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" style="background:white;padding:6px;border-radius:8px;" />
 </p>
 
 ---
