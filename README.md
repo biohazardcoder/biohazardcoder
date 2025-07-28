@@ -13,8 +13,7 @@
 
 ---
 
-#### Languages & Tools
-
+#### Tech Stack Breakdown
 ---
 
 ####  Frontend
