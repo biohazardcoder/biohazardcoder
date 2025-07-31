@@ -11,7 +11,7 @@ About Me
 - 🔭 I’m currently working on **modern web applications**
 - 🌱 I’m learning *React Navite, Payment system  and AI integrations**
 - 💬 Ask me about **React, Node.js, MongoDB, Tailwind**
-- 📫 Reach me at: **buxorojahon@gmail.com**
+- 📫 Reach me at: **buxorojahon@gmail.com** || **+998336116383**
   
 ---
 
