@@ -12,8 +12,7 @@ About Me
 - 🌱 I’m learning *React Navite, Payment system  and AI integrations**
 - 💬 Ask me about **React, Node.js, MongoDB, Tailwind**
 - 📫 Reach me at: **buxorojahon@gmail.com**
-- ⚡ Fun fact: I believe in learning by building
-
+  
 ---
 
 Tech Stack Breakdown
